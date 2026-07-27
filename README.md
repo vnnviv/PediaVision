@@ -31,7 +31,7 @@
 ### ᧔ෆ᧓ System Architecture — Four Stages
 
 * ʚɞ **Stage 1: CNN Analysis**
-  * ✦ EfficientNet-B3 classifies uploaded image ┈➤ Initial diagnosis + confidence scores
+  * ✦ EfficientNet-B3 classifies uploaded image ┈➤ Initial diagnosis + predictive scores
 * ʚɞ **Stage 2: AI Clarification (Fine-tuned LLaMA)**
   * ✦ Asks targeted questions ┈➤ Age, symptom duration, prior treatments, skin tone
 * ʚɞ **Stage 3: Refined Diagnosis**
