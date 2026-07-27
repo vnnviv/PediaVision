@@ -35,7 +35,7 @@
 * ʚɞ **Stage 2: AI Clarification (Fine-tuned LLaMA)**
   * ✦ Asks targeted questions ┈➤ Age, symptom duration, prior treatments, skin tone
 * ʚɞ **Stage 3: Refined Diagnosis**
-  * ✦ Combines visual features + questionnaire responses ┈➤ Updated confidence score
+  * ✦ Combines visual features + questionnaire responses ┈➤ Updated predictive score
 * ʚɞ **Stage 4: Treatment Recommendations**
   * ✦ Personalized product recommendations ┈➤ Curated from structured Sephora/Amazon treatment database
 
