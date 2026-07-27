@@ -1,0 +1,213 @@
+{
+  "Acne_Normal": {
+    "severity": "Normal Skin",
+    "urgency": "low",
+    "see_doctor": "Only for routine checkups",
+    "otc_treatments": [
+      "Gentle cleanser (Cetaphil, CeraVe)",
+      "Daily moisturizer with SPF 30+",
+      "Vitamin C serum for prevention"
+    ],
+    "routine": [
+      "Morning: Cleanse \u2192 Vitamin C \u2192 Moisturizer \u2192 Sunscreen",
+      "Evening: Cleanse \u2192 Moisturize"
+    ],
+    "advice": "Maintain healthy skin with consistent routine and sun protection",
+    "red_flags": []
+  },
+  "Acne_Mild": {
+    "severity": "Mild Acne",
+    "urgency": "low",
+    "see_doctor": "If no improvement in 6-8 weeks",
+    "otc_treatments": [
+      "Benzoyl peroxide 2.5% cleanser",
+      "Salicylic acid spot treatment",
+      "Non-comedogenic moisturizer",
+      "Oil-free sunscreen SPF 30+"
+    ],
+    "routine": [
+      "Morning: Gentle cleanse \u2192 Moisturize \u2192 Sunscreen",
+      "Evening: BP cleanser \u2192 Spot treatment \u2192 Moisturize"
+    ],
+    "advice": "Be patient (takes 4-6 weeks), avoid picking, change pillowcases weekly",
+    "red_flags": [
+      "Painful cysts",
+      "Widespread inflammation",
+      "Scarring"
+    ]
+  },
+  "Acne_Moderate": {
+    "severity": "Moderate Acne",
+    "urgency": "medium",
+    "see_doctor": "Consider dermatologist consultation",
+    "otc_treatments": [
+      "Salicylic acid cleanser 2%",
+      "Benzoyl peroxide 5-10% treatment",
+      "Adapalene gel 0.1% (Differin) - OTC retinoid",
+      "Niacinamide serum for inflammation",
+      "Oil-free moisturizer"
+    ],
+    "routine": [
+      "Morning: SA cleanser \u2192 Niacinamide \u2192 BP treatment \u2192 Moisturize \u2192 SPF 50",
+      "Evening: Gentle cleanse \u2192 Adapalene \u2192 Moisturize"
+    ],
+    "advice": "Results take 8-12 weeks. Use retinoid at night only. Always wear sunscreen.",
+    "red_flags": [
+      "Deep cysts",
+      "Not responding after 12 weeks",
+      "Severe scarring"
+    ]
+  },
+  "Acne_Severe": {
+    "severity": "Severe Acne",
+    "urgency": "high",
+    "see_doctor": "\u26a0\ufe0f SEE DERMATOLOGIST IMMEDIATELY",
+    "otc_treatments": [
+      "\ud83d\udea8 OTC treatments insufficient",
+      "Gentle cleanser only until doctor visit",
+      "Fragrance-free moisturizer"
+    ],
+    "routine": [
+      "Gentle care only - avoid harsh treatments",
+      "Do not pick or squeeze"
+    ],
+    "advice": "Severe acne requires prescription medications (antibiotics, isotretinoin). Schedule appointment ASAP.",
+    "red_flags": [
+      "Already severe - needs professional care immediately"
+    ]
+  },
+  "Melanoma": {
+    "severity": "Possible Melanoma",
+    "urgency": "CRITICAL",
+    "see_doctor": "\ud83d\udea8 URGENT: See dermatologist within 24-48 hours",
+    "otc_treatments": [
+      "None - requires immediate medical evaluation"
+    ],
+    "routine": [
+      "Protect from sun",
+      "Monitor for changes",
+      "Take photos"
+    ],
+    "advice": "Melanoma is serious but highly treatable when caught early. Do not delay.",
+    "red_flags": [
+      "Asymmetry in mole",
+      "Irregular borders",
+      "Multiple colors",
+      "Diameter >6mm",
+      "Evolving/changing"
+    ]
+  },
+  "Melanocytic_Nevi": {
+    "severity": "Melanocytic Nevi (Moles)",
+    "urgency": "low",
+    "see_doctor": "Annual skin check recommended",
+    "otc_treatments": [
+      "Sun protection SPF 50+",
+      "Monitor for changes"
+    ],
+    "routine": [
+      "Daily sunscreen",
+      "Monthly self-examination"
+    ],
+    "advice": "Most moles are benign. Watch for ABCDE changes (Asymmetry, Border, Color, Diameter, Evolution)",
+    "red_flags": [
+      "Rapid growth",
+      "Color changes",
+      "Bleeding",
+      "Itching"
+    ],
+    "personalization": "Standard treatment protocol applicable"
+  },
+  "Actinic_Keratoses": {
+    "severity": "Actinic Keratoses (Pre-cancerous)",
+    "urgency": "medium",
+    "see_doctor": "See dermatologist for treatment options",
+    "otc_treatments": [
+      "Strict sun protection SPF 50+",
+      "Protective clothing"
+    ],
+    "routine": [
+      "Avoid sun exposure",
+      "Wear hats and long sleeves",
+      "Regular monitoring"
+    ],
+    "advice": "AKs are pre-cancerous and need treatment. Options include cryotherapy, topical medications.",
+    "red_flags": [
+      "Growing rapidly",
+      "Bleeding",
+      "Not healing"
+    ]
+  },
+  "Basal_Cell_Carcinoma": {
+    "severity": "Basal Cell Carcinoma",
+    "urgency": "high",
+    "see_doctor": "\u26a0\ufe0f Schedule dermatologist appointment within 1-2 weeks",
+    "otc_treatments": [
+      "None - requires medical treatment"
+    ],
+    "routine": [
+      "Sun protection",
+      "Monitor for changes"
+    ],
+    "advice": "BCC is the most common skin cancer but rarely spreads. Treatment is very effective.",
+    "red_flags": [
+      "Non-healing sore",
+      "Growing lesion",
+      "Bleeding"
+    ]
+  },
+  "Benign_Keratosis": {
+    "severity": "Benign Keratosis",
+    "urgency": "low",
+    "see_doctor": "Optional - cosmetic removal available",
+    "otc_treatments": [
+      "Moisturizer if dry",
+      "Sun protection"
+    ],
+    "routine": [
+      "Normal skincare",
+      "Monitor for changes"
+    ],
+    "advice": "Benign keratoses are harmless. Removal is optional for cosmetic reasons.",
+    "red_flags": [
+      "Sudden changes",
+      "Bleeding",
+      "Pain"
+    ]
+  },
+  "Dermatofibroma": {
+    "severity": "Dermatofibroma",
+    "urgency": "low",
+    "see_doctor": "Only if bothersome",
+    "otc_treatments": [
+      "No treatment needed"
+    ],
+    "routine": [
+      "Normal skincare"
+    ],
+    "advice": "Dermatofibromas are benign. They may feel firm but are harmless.",
+    "red_flags": [
+      "Rapid growth",
+      "Pain",
+      "Color change"
+    ]
+  },
+  "Vascular_Lesions": {
+    "severity": "Vascular Lesions",
+    "urgency": "low",
+    "see_doctor": "If bothersome or changing",
+    "otc_treatments": [
+      "Gentle skincare",
+      "Sun protection"
+    ],
+    "routine": [
+      "Avoid irritation",
+      "Protect from trauma"
+    ],
+    "advice": "Most vascular lesions are benign. Laser treatment available for cosmetic concerns.",
+    "red_flags": [
+      "Rapid growth",
+      "Bleeding frequently"
+    ]
+  }
+}

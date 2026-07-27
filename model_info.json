@@ -1,0 +1,26 @@
+{
+  "model_name": "PediaVision",
+  "version": "1.0",
+  "classes": [
+    "Actinic_Keratoses",
+    "Basal_Cell_Carcinoma",
+    "Benign_Keratosis",
+    "Dermatofibroma",
+    "Melanocytic_Nevi",
+    "Melanoma",
+    "Vascular_Lesions"
+  ],
+  "num_classes": 7,
+  "input_size": [
+    224,
+    224
+  ],
+  "accuracy": 82.52621068397404,
+  "training_samples": 8012,
+  "validation_samples": 2003,
+  "architecture": "EfficientNet-B3",
+  "datasets": [
+    "HAM10000 (Skin Cancer/Lesions)",
+    "ACNE04 (Acne Classification)"
+  ]
+}
