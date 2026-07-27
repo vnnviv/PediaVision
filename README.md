@@ -81,6 +81,3 @@
 * ʚɞ **Data & Evaluation:** `pandas` · `numpy` · `scikit-learn` · `opencv-python` · `PIL` · `matplotlib` · `seaborn`
 * ʚɞ **Deployment & UI:** `CoreML` (via `coremltools`) · `gradio` (interactive demo interface)
 
----
-
-### 📂 Repository Structure
