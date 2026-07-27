@@ -22,7 +22,7 @@
 
 ### ⋆˚✿˖° Overview
 
-> **PediaVision** is a complete four-stage AI pipeline for skin condition analysis developed for integration into the **[SpotCheck iOS Application](https://github.com/vnnviv/SpotCheck)**. The system goes beyond simple image classification — it combines CNN-based visual analysis with AI-assisted clarification questions and evidence-based treatment recommendations.
+> **PediaVision** is a complete four-stage AI pipeline for skin condition analysis developed for integration into the **[SpotCheck iOS Application](https://github.com/vnnviv/SpotCheck)**. The system goes beyond simple image classification, it combines CNN-based visual analysis with AI-assisted clarification questions and evidence-based treatment recommendations.
 
 * ʚɞ **Demographic Fairness:** Specifically designed with demographic fairness in mind, addressing known gaps in dermatological AI systems that underperform on darker skin tones and East/Southeast Asian skin types.
 
